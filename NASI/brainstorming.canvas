@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f0af861e10af30d1","type":"text","text":"![[Pasted image 20241001231634.png]]\n\nkonteks exoplanet disini lebih ke planet-planet di luar solar system kita","x":-136,"y":183,"width":656,"height":197},
+		{"id":"e5ce1c2da10016a4","x":-496,"y":460,"width":1376,"height":360,"type":"text","text":"**more detailed definition:** \n\nAn exoplanet is a planet outside our solar system, usually orbiting another star. They are also sometimes called \"extrasolar planets,\" \"extra-\" implying that they are outside of our solar system.\n\nThe worlds orbiting other stars are called “exoplanets,” and they come in a wide variety of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars. They can be hot enough to boil metal or locked in deep freeze. They can orbit their stars so tightly that a “year” lasts only a few days; they can orbit two suns at once. Some exoplanets are sunless rogues, wandering through the galaxy in permanent darkness.\n\nOur galaxy, the Milky Way, is the thick stream of stars that cuts across the sky on the darkest, clearest nights. Its spiraling expanse probably contains about 400 billion stars, our Sun among them. And if each of those stars has not just one planet, but, like ours, a whole system of them, then the number of planets in the galaxy is truly astronomical: We’re already heading into the trillions.\n\nTo date, **more than 5,000 exoplanets** have been discovered and are considered \"confirmed\" out of the billions in our galaxy alone."},
+		{"id":"e0c30a4798362e72","x":120,"y":-60,"width":180,"height":60,"color":"#0b1f84","type":"text","text":"**EXOPLANET**"},
+		{"id":"469a72b2c2d9d6f5","x":-496,"y":1000,"width":1296,"height":1060,"type":"text","text":"EPIC 201497682 b\nhttps://eyes.nasa.gov/apps/exo/#/planet/EPIC_201497682_b"},
+		{"id":"3ffa541a8597137d","x":-440,"y":1100,"width":1160,"height":880,"type":"link","url":"https://eyes.nasa.gov/apps/exo/#/planet/EPIC_201497682_b"}
+	],
+	"edges":[
+		{"id":"776b4beb423af088","fromNode":"f0af861e10af30d1","fromSide":"bottom","toNode":"e5ce1c2da10016a4","toSide":"top"},
+		{"id":"5762df4f0e7a865a","fromNode":"e0c30a4798362e72","fromSide":"bottom","toNode":"f0af861e10af30d1","toSide":"top"}
+	]
+}
